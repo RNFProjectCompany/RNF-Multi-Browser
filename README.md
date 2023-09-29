@@ -7,7 +7,7 @@
 </h1>
 
 <h4 align="center">
-The ultimate Android RE experience right inside your <a href="https://code.visualstudio.com/">VS Code</a>.
+The ultimate Multi Search Engine experience right.
 </h4>
 
 <p align="center">
