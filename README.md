@@ -34,7 +34,7 @@ RNF Multi Browser adalah sebuah browser dengan multi search engine Anda dapat me
         <img alt="Telegram" src="https://img.shields.io/badge/telegram-eff?logo=telegram">
     </a>
     <a href="https://matrix.to/#/#apklab:matrix.org">
-        <img alt="Instagram" src="https://img.shields.io/badge/instagram-f5faef?logo=instagram">
+        <img alt="Instagram" src="https://img.shields.io/badge/instagram-eff?logo=instagram">
     </a>
 </p>
 
