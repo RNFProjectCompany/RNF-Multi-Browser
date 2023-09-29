@@ -7,7 +7,7 @@
 </h1>
 
 <h4 align="center">
-The ultimate Multi Search Engine experience right.
+Pengalaman Multi Search Engine Terbaik.
 </h4>
 
 <p align="center">
