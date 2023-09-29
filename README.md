@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://apklab.surendrajat.xyz">
-    <img src="https://raw.githubusercontent.com/APKLab/apklab/master/assets/icon.png" alt="APKLab" height="96px" width="100px">
+    <img src="/icons/RNF Multi Browser.png" alt="APKLab" height="96px" width="100px">
   </a>
   <br>
   RNF Multi Browser
