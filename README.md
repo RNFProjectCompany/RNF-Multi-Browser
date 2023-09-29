@@ -11,7 +11,7 @@ Pengalaman Multi Search Engine Terbaik.
 </h4>
 
 <p align="center">
-APKLab seamlessly integrates the best open-source tools: <a href='https://github.com/quark-engine/quark-engine'>Quark-Engine</a>, <a href="https://github.com/ibotpeaches/apktool/">Apktool</a>, <a href="https://github.com/skylot/jadx">Jadx</a>, <a href="https://github.com/patrickfav/uber-apk-signer">uber-apk-signer</a>, <a href="https://github.com/shroudedcode/apk-mitm/">apk-mitm</a> and more to the excellent VS Code so you can focus on app analysis and get it done without leaving the IDE.
+RNF Multi Browser adalah sebuah browser dengan multi search engine Anda dapat menggunakan search engine favorit Anda, dan nikmati menjelajah internet tanpa terhalang oleh iklan yang mengganggu.
 </p>
 
 <p align="center">
