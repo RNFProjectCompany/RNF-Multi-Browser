@@ -22,7 +22,7 @@ RNF Multi Browser adalah sebuah browser dengan multi search engine Anda dapat me
         <img alt="Download" src="https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square">
     </a>
     <a href="https://developer.android.com/studio/releases/platforms">
-        <img alt="Installs" src="https://img.shields.io/badge/API-22%2B-orange.svg?logo=android&style=flat-square">
+        <img alt="Installs" src="https://img.shields.io/badge/API-21%2B-orange.svg?logo=android&style=flat-square">
     </a>
 </p>
 
