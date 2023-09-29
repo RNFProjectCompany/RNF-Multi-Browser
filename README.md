@@ -16,7 +16,7 @@ RNF Multi Browser adalah sebuah browser dengan multi search engine Anda dapat me
 
 <p align="center">
     <a href="https://github.com/APKLab/APKLab">
-        <img alt="Version" src="https://img.shields.io/github/v/tag/APKLab/APKLab?label=latest&color=f0f0e0&labelColor=404752">
+        <img alt="Version" src="https://img.shields.io/badge/version-1.0-green">
     </a>
     <a href="https://www.android.com">
         <img alt="Download" src="https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square">
@@ -28,7 +28,7 @@ RNF Multi Browser adalah sebuah browser dengan multi search engine Anda dapat me
 
 <p align="center">
     <a href="https://forum.xda-developers.com/t/4109409/">
-        <img alt="XDA Developers" src="https://img.shields.io/badge/XDA%20Forums-ffb?logo=xda-developers">
+        <img alt="XDA Developers" src="https://img.shields.io/badge/whatsapp-ffb?logo=whatsapp">
     </a>
     <a href="https://t.me/apklab_re">
         <img alt="Telegram" src="https://img.shields.io/badge/telegram-eff?logo=telegram">
