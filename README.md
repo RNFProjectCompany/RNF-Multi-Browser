@@ -28,13 +28,13 @@ RNF Multi Browser adalah sebuah browser dengan multi search engine Anda dapat me
 
 <p align="center">
     <a href="https://forum.xda-developers.com/t/4109409/">
-        <img alt="WhatsApp" src="https://img.shields.io/badge/whatsapp-eff?logo=whatsapp">
+        <img alt="WhatsApp" src="https://img.shields.io/badge/whatsapp-eff?logo=WhatsApp">
     </a>
     <a href="https://t.me/apklab_re">
-        <img alt="Telegram" src="https://img.shields.io/badge/telegram-eff?logo=telegram">
+        <img alt="Telegram" src="https://img.shields.io/badge/telegram-eff?logo=Telegram">
     </a>
     <a href="https://matrix.to/#/#apklab:matrix.org">
-        <img alt="Instagram" src="https://img.shields.io/badge/instagram-eff?logo=instagram">
+        <img alt="Instagram" src="https://img.shields.io/badge/instagram-eff?logo=Instagram">
     </a>
 </p>
 
