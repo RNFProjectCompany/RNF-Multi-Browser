@@ -49,4 +49,11 @@ RNF Multi Browser adalah sebuah browser dengan multi search engine Anda dapat me
 ## ChangeLog
 ## Realese
 ## License
-## Thanks To
+## Supported Me
+
+❤ My Parent<br/>
+❤ Inayah Maulidah<br/>
+❤ Maula Ahmad Najib<br/>
+❤ Muhammad Fawaz<br/>
+❤ Ananda Nabila Balqis<br/><br/>
+★ Another One
