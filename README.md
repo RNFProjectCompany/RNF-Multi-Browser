@@ -39,6 +39,11 @@ RNF Multi Browser adalah sebuah browser dengan multi search engine Anda dapat me
 </p>
 
 ## Feature
+
+✦ Multi Search Engine
+✦ AdBlock
+✦ Mini Size App
+
 ## Source Code
 ## Screenshot
 ## ChangeLog
