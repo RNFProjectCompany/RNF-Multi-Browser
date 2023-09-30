@@ -30,7 +30,7 @@ RNF Multi Browser adalah sebuah browser dengan multi search engine Anda dapat me
     <a href="https://forum.xda-developers.com/t/4109409/">
         <img alt="WhatsApp" src="https://img.shields.io/badge/whatsapp-eff?logo=WhatsApp">
     </a>
-    <a href="https://t.me/apklab_re">
+    <a href="https://t.me/rnfmultibrowser">
         <img alt="Telegram" src="https://img.shields.io/badge/telegram-eff?logo=Telegram">
     </a>
     <a href="https://matrix.to/#/#apklab:matrix.org">
