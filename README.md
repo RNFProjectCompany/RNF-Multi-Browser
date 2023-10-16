@@ -104,7 +104,7 @@ Pemberitahuan hak cipta di atas dan pemberitahuan izin ini akan disertakan dalam
 ❤ Ananda Nabila Balqis<br/><br/>
 ★ Yang lainnya
 
-<p>Bahasa Inggris
-    <a href="https://github.com/RNFProjectCompany/RNF-Multi-Browser/blob/main/README-EN.md">
-    </a>
-</p>
+## Bahasa
+<a href="https://github.com/RNFProjectCompany/RNF-Multi-Browser/blob/main/README-EN.md">
+  <p>Bahasa Inggris</p>
+</a>
