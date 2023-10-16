@@ -46,7 +46,7 @@ RNF Multi Browser adalah sebuah browser dengan multi search engine Anda dapat me
 
 ## Source Code
 ## Screenshot
-## [ChangeLog](https://github.com/RNFProjectCompany/RNF-Multi-Browser/blob/main/changelog.md)
+## ChangeLog (https://github.com/RNFProjectCompany/RNF-Multi-Browser/blob/main/changelog.md)
 
 ## Realese
 <p>
