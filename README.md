@@ -55,16 +55,16 @@ RNF Multi Browser adalah sebuah browser dengan multi search engine Anda dapat me
 </p>
 
 ## Screenshot
-<h6>Multi Search Engine</h6>
+<p>Multi Search Engine</p>
 <img src="/screenshot/rnfmultibrowser3.jpg">
 
-<h6>Tools</h6>
+<p>Tools</p>
 <img src="/screenshot/rnfmultibrowser2.jpg">
 
-<h6>Dekstop Mode</h6>
+<p>Dekstop Mode</p>
 <img src="/screenshot/rnfmultibrowser1.jpg">
 
-<h6>View Source</h6>
+<p>View Source</p>
 <img src="/screenshot/rnfmultibrowser4.jpg">
 
 
