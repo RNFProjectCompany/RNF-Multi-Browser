@@ -48,6 +48,9 @@ RNF Multi Browser adalah sebuah browser dengan multi search engine Anda dapat me
 ## Screenshot
 ## ChangeLog
 ## Realese
+<img src="https://img.shields.io/conda/:variant/:channel/:package">
+
+
 ## License
 <p>RNF Multi Browser<br/>
   Copyright ©RNF Multi Browser By RNF Project Company
