@@ -57,6 +57,7 @@ Izin dengan ini diberikan, secara gratis, kepada siapa pun yang memperoleh salin
 Pemberitahuan hak cipta di atas dan pemberitahuan izin ini akan disertakan dalam semua salinan atau sebagian besar Perangkat Lunak.
 
 </p>
+
 ## Supported Me
 
 ❤ My Parent<br/>
