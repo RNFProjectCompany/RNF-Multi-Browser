@@ -52,9 +52,11 @@ RNF Multi Browser adalah sebuah browser dengan multi search engine Anda dapat me
 <p>RNF Multi Browser<br/>
   Copyright ©RNF Multi Browser By RNF Project Company
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Izin dengan ini diberikan, secara gratis, kepada siapa pun yang memperoleh salinan perangkat lunak ini dan file dokumentasi terkait ("Perangkat Lunak"), untuk menggunakan Perangkat Lunak tanpa batasan, termasuk tanpa batasan hak untuk menggunakan, menyalin, memodifikasi, menggabungkan , mempublikasikan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak, dan mengizinkan orang yang menerima Perangkat Lunak untuk melakukan hal tersebut, dengan tunduk pada ketentuan berikut:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+Pemberitahuan hak cipta di atas dan pemberitahuan izin ini akan disertakan dalam semua salinan atau sebagian besar Perangkat Lunak.
+
+</p>
 ## Supported Me
 
 ❤ My Parent<br/>
