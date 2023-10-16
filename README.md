@@ -62,6 +62,9 @@ RNF Multi Browser adalah sebuah browser dengan multi search engine Anda dapat me
 ## Realese
 <p>
     <a href="https://github.com/APKLab/APKLab">
+        <img alt="Version" src="https://img.shields.io/badge/Download-1.0-blue">
+    </a>
+  <a href="https://github.com/APKLab/APKLab">
         <img alt="Version" src="https://img.shields.io/badge/Download-1.5-blue">
     </a>
 </p>
