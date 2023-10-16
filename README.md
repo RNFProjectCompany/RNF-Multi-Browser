@@ -49,7 +49,7 @@ RNF Multi Browser adalah sebuah browser dengan multi search engine Anda dapat me
 ## ChangeLog
 <p>
     <a href="https://github.com/APKLab/APKLab](https://github.com/RNFProjectCompany/RNF-Multi-Browser/blob/main/changelog.md">
-        <img alt="Version" src="https://img.shields.io/badge/View-👁-grey">
+        <img alt="Version" src="https://img.shields.io/badge/View-👁-cyan">
     </a>
 </p>
 
