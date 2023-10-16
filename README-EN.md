@@ -103,3 +103,8 @@ The above copyright notice and this permission notice shall be included in all c
 ❤ Muhammad Fawaz<br/>
 ❤ Ananda Nabila Balqis<br/><br/>
 ★ Another One
+
+## Language
+<a href="https://github.com/RNFProjectCompany/RNF-Multi-Browser/blob/main/README-EN.md">
+  <p>Indonesian</p>
+</a>
