@@ -64,10 +64,10 @@ RNF Multi Browser adalah sebuah browser dengan multi search engine Anda dapat me
 
 ## Realese
 <p>
-    <a href="https://github.com/APKLab/APKLab">
+    <a href="https://apkadmin.com/gs3jw9q4c273/RNF_Multi_Browser_1.0.apk.html">
         <img alt="Version" src="https://img.shields.io/badge/Download-1.0-blue">
     </a>
-  <a href="https://github.com/APKLab/APKLab">
+  <a href="#">
         <img alt="Version" src="https://img.shields.io/badge/Download-1.5-blue">
     </a>
 </p>
