@@ -6,9 +6,9 @@
   RNF Multi Browser
 </h1>
 
-<h4 align="center">
+<h3 align="center">
 Pengalaman Multi Search Engine Terbaik.
-</h4>
+</h3>
 
 <p align="center">
 RNF Multi Browser adalah sebuah browser dengan multi search engine Anda dapat menggunakan search engine favorit Anda, dan nikmati menjelajah internet tanpa terhalang oleh iklan yang mengganggu.
