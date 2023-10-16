@@ -97,9 +97,14 @@ Pemberitahuan hak cipta di atas dan pemberitahuan izin ini akan disertakan dalam
 
 ## Supported Me
 
-❤ My Parent<br/>
+❤ Orang Tuaku<br/>
 ❤ Inayah Maulidah<br/>
 ❤ Maula Ahmad Najib<br/>
 ❤ Muhammad Fawaz<br/>
 ❤ Ananda Nabila Balqis<br/><br/>
-★ Another One
+★ Yang lainnya
+
+<p>Bahasa Inggris
+    <a href="https://github.com/RNFProjectCompany/RNF-Multi-Browser/blob/main/README-EN.md">
+    </a>
+</p>
