@@ -1,6 +1,6 @@
 # What's New?
 
-## [1.5] - 2023-10-21
+<!-- ## [1.5] - 2023-10-21
 
 ### New
 - Added Tools
@@ -11,7 +11,7 @@
 - Optimization App
 
 ### Fixed
-- Bug
+- Bug -->
 
 ## [1.0] - 2023-09-21
 
