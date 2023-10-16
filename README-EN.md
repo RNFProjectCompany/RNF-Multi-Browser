@@ -15,7 +15,7 @@ RNF Multi Browser is a browser with multi search engines. You can use your favor
 </p>
 
 <p align="center">
-    <a href="https://github.com/APKLab/APKLab">
+    <a href="https://github.com/RNFProjectCompany/RNF-Multi-Browser">
         <img alt="Version" src="https://img.shields.io/badge/Latest_Version-1.5-teal">
     </a>
     <a href="https://www.android.com">
@@ -27,13 +27,13 @@ RNF Multi Browser is a browser with multi search engines. You can use your favor
 </p>
 
 <p align="center">
-    <a href="https://forum.xda-developers.com/t/4109409/">
+    <a href="#">
         <img alt="WhatsApp" src="https://img.shields.io/badge/whatsapp-eff?logo=WhatsApp">
     </a>
     <a href="https://t.me/rnfmultibrowser">
         <img alt="Telegram" src="https://img.shields.io/badge/telegram-eff?logo=Telegram">
     </a>
-    <a href="https://matrix.to/#/#apklab:matrix.org">
+    <a href="#">
         <img alt="Instagram" src="https://img.shields.io/badge/instagram-eff?logo=Instagram">
     </a>
 </p>
